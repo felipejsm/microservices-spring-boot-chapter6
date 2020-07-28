@@ -21,4 +21,4 @@ zuul:
     organizationservice: organization/**
     licensingservice: licensing/**
   ignored-services: '*'
-  prefix: api
+  prefix: /api
